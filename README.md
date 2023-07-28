@@ -6,7 +6,7 @@ Peter Njukia
 
 ## Demo
 
-![](src/main/resources/public/images/readme.png)
+![](src/main/resources/public/images/READme.jpg)
 
 ### Description
 
